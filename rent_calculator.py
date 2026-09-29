@@ -1,3 +1,4 @@
+# rent calculator
 rent=int(input("enter the your rent:"))
 Food=int(input("enter the cost of food:"))
 
